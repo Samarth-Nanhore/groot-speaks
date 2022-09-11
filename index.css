@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Josefin+Sans&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+body {
+    display: grid;
+    place-content: center;
+    padding: 1rem;
+    row-gap: 0.8rem;
+    background-color: #c4b5fd;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+.inputtext {
+    border-radius: 9px;
+    border-width: medium;
+    background-color: rgb(237, 236, 236);
+    outline: none;
+    height: 10rem;
+}
+
+.inputtext::placeholder {
+    font-size: 20px;
+}
+
+button {
+    padding: 1rem 2rem;
+    width: max-content;
+    font-weight: 700;
+    font-size: large;
+    background-color: transparent;
+    border-radius: 7px;
+    margin: auto;
+    outline: none;
+}
+
+button:hover {
+    background-color: #a3e635;
+    transition: 0.7s;
+}
+
+.info {
+    width: 35vw;
+    text-align: justify;
+    font-size: large;
+    font-weight: bolder;
+}
