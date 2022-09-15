@@ -1,5 +1,5 @@
 <h1>markSix: "groot speak" App</h1>
-<h2>site link: https://speaks-minions.netlify.app/</h2>
+<h2>site link: https://speaks-groot.netlify.app/ </h2>
 
 ####Tech Stack:
 
